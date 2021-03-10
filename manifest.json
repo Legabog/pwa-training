@@ -1,0 +1,26 @@
+{
+  "name": "PWA Training App",
+  "short_name": "lega-pwa",
+  "theme_color": "#2196f3",
+  "background_color": "#1a4f79",
+  "display": "standalone",
+  "orientation": "portrait",
+  "start_url": ".",
+  "icons": [
+    {
+      "src": "./icons/turtle.ico",
+      "sizes": "128x128",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "./icons/turtle256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "./icons/turtle512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
